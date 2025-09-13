@@ -12,7 +12,6 @@ Contato:
 Telefone: (21) 97944-1558
 E-mail:  lukemenezes06@gmail.com
 Linkedin: https://www.linkedin.com/in/pedro-lucas-menezes-de-barros-30916a379/
-GitHub: https://github.com/plmenezes
 SOBRE MIM:
 Quem sou eu:
 Tenho 19 anos e concluí o ensino médio no ano passado. Desde cedo, sempre fui apaixonado pelo universo da programação, o que me motivou a buscar conhecimento por conta própria em plataformas como YouTube e Udemy, onde realizei cursos de Python e Java. Atualmente, estou me aprofundando em JavaScript e React, expandindo ainda mais minhas habilidades na área de desenvolvimento.
